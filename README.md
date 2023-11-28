@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<!--
+- I'm Yassi!
+- I'm currently a graduate student at McMaster Univeristy.
+- I'm working on modeling sensorimotor synchronization in brain with reinforcement learning.
+- Aspiring to be a game developer.
+-->
 <!--
 **yassiommi/yassiommi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
